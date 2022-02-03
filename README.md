@@ -7,7 +7,7 @@
   
   📚 Desejo aprender mais sobre Pandas, Jupyter e Seaborn em aplicações para Data Science.
   
-  💻 Tenho interesse nas areas de Machine Learning, Deep learning e Redes Neurais.
+  💻 Tenho interesse nas áreas de Machine Learning, Deep learning e Redes Neurais.
   
   
 
