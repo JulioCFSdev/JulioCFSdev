@@ -1,13 +1,13 @@
-# Olá! Eu sou o JulioCFSdev
+# Hi! I am JulioCFSdev
 
   
-  👨‍🎓 Graduando em Sistemas da Informação na Universidade Estadual do Amazonas.
+  👨‍🎓 Graduating in Information Systems at the State University of Amazonas.
   
-  🧠 Possuo dominio nas linguagens Python e C.
+  🧠 I have mastery of Python and C languages.
   
-  📚 Desejo aprender mais sobre Pandas, Jupyter e Seaborn em aplicações para Data Science.
+  📚 I want to learn more about Pandas, Jupyter and Seaborn in Data Science applications.
   
-  💻 Tenho interesse nas áreas de Machine Learning, Deep learning e Redes Neurais.
+  💻 I am interested in Machine Learning, Deep Learning, Neural Networks and Data Science.
   
   
 
