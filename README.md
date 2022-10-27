@@ -9,9 +9,9 @@
   
   🎮 I am Game Developer at Ludus Lab
   
-  📚 I want to learn more about Pandas, Jupyter and Seaborn in Data Science applications.
+  📚 I want to learn more about Unity and Unreal Engine 5 in Game Development.
   
-  💻 I am interested in Machine Learning, Deep Learning, Neural Networks and Data Science.
+  💻 I'm interested in Machine Learning, Neural Networks applied to game development.
   
   
 
