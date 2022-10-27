@@ -3,7 +3,11 @@
   
   👨‍🎓 Graduating in Information Systems at the State University of Amazonas.
   
-  🧠 I have mastery of Python and C languages.
+  🧠 I have mastery of Python, C, C++ and C# languages.
+  
+  💡 I have experience with game development in Unity
+  
+  🎮 I am Game Developer at Ludus Lab
   
   📚 I want to learn more about Pandas, Jupyter and Seaborn in Data Science applications.
   
