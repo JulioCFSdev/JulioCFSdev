@@ -21,9 +21,9 @@
 <div>
   
 <br>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCFSdev&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCFSdev&layout=compact&langs_count=16&theme=cobalt"/>
 <br>
   
 <br>
-   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=JulioCFSdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JulioCFSdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D"/>
 <br>
