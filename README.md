@@ -18,9 +18,12 @@
 <div>
   <a href="https>//https://github.com/JulioCFSdev">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JulioCFSdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCFSdev&layout=compact&langs_count=16&theme=cobalt"/>
 <div>
-    
+  
+<br>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCFSdev&layout=compact&langs_count=16&theme=cobalt"/>
+<br>
+  
 <br>
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=JulioCFSdev&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D"/>
 <br>
