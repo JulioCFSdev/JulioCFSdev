@@ -3,9 +3,9 @@
   
   👨‍🎓 Graduating in Information Systems at the State University of Amazonas.
   
-  🧠 I have mastery of Python, C, C++ and C# languages.
+  🧠 I have mastery of Python,Lua,Luau,C,C++ and C# languages.
   
-  💡 I have experience with game development in Unity
+  💡 I have experience with game development in Unity, Unreal Engine 4 and Roblox Studio
   
   🎮 I am Game Developer at Ludus Lab
   
