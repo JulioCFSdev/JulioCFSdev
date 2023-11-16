@@ -9,9 +9,9 @@
   
   🎮 I am Game Developer at Ludus Lab
   
-  📚 I want to learn more about Unity and Unreal Engine 5 in Game Development.
+  📚 I want to learn more about Automated Tests.
   
-  💻 I'm interested in Machine Learning, Neural Networks applied to game development.
+  💻 I'm interested in Machine Learning, Neural Networks applied to game development and Automated Tests in Python .
   
   
 
