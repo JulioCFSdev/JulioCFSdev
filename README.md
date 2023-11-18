@@ -9,7 +9,7 @@
   
   🎮 I am Game Developer at Ludus Lab
   
-  📚 I want to learn more about Automated Tests.
+  📚 I want to learn more about Automated Tests with Selenium WebDriver and Cypress.
   
   💻 I'm interested in Machine Learning, Neural Networks applied to game development and Automated Tests in Python .
   
