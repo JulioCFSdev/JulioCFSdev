@@ -5,13 +5,15 @@
   
   🧠 I have experience of Python, Lua, Luau, C, C++ and C# languages.
   
-  💡 I have experience with game development in Unity, Unreal Engine 4 and Roblox Studio
+  💡 I have experience with game development in Unity, Unreal Engine 4 and Roblox Studio.
+
+  💡 I have experience with Automated Tests in Selenium WebDriver and Cypress.
   
-  🎮 I am Game Developer at Ludus Lab
+  🎮 I am Game Developer at Ludus Lab.
   
   📚 I want to learn more about Automated Tests with Selenium WebDriver and Cypress.
   
-  💻 I'm interested in Machine Learning, Neural Networks applied to game development and Automated Tests in Python .
+  💻 I'm interested in Machine Learning, Neural Networks applied to game development and Automated Tests in Python.
   
   
 
