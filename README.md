@@ -1,6 +1,6 @@
 👨‍🎓 Graduating in Information Systems at the State University of Amazonas (Expected March 2025).
 
-🧠 With over 15 years of experience, I excel in FullStack Web Development, notably in leading teams and optimizing project processes through strategic documentation.
+🧠 With over 1.5 years of experience, I excel in FullStack Web Development, notably in leading teams and optimizing project processes through strategic documentation.
 
 💼 Currently, I'm a Software Developer at Ludus Lab in Manaus, Amazonas.
 
