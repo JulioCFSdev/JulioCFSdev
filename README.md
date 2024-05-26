@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JulioCFSdev)
+
 👨‍🎓 Graduating in Information Systems at the State University of Amazonas (Expected March 2025).
 
 🧠 With over 1.5 years of experience, I excel in FullStack Web Development, notably in leading teams and optimizing project processes through strategic documentation.
